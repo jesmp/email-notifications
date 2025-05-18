@@ -27,7 +27,7 @@ class WeatherAppInfo:
     def organize_weather_data(self):
         data = self.get_weather_api_data()
 
-        return data
+        # return data
 
 
 
